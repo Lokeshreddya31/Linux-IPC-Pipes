@@ -15,7 +15,7 @@ Navigate to any Linux environment installed on the system or installed inside a 
 
 ### Step 2:
 
-Write the C Program using Linux Process API - pipe(), fifo()
+Write the C Program using Linux Process API - pipe(), fifo().
 
 ### Step 3:
 
